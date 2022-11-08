@@ -70,16 +70,47 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-### Head:
-![162624982-29eb8ed9-c953-4424-901e-3cc1b8c248ae](https://user-images.githubusercontent.com/93427278/196478925-813e8a4e-b32a-4ef3-b88e-cac875b00d3b.png)
-### Predicted values:
-![162624993-7f5fef84-2767-4f44-bf27-a742f314fc56](https://user-images.githubusercontent.com/93427278/196478995-570d7c28-ec74-4a22-a986-b9268447b217.png)
-### Accuracy:
-![162625004-22ea1b60-eea7-4591-9d44-6b445ae6640e](https://user-images.githubusercontent.com/93427278/196479062-da41501a-7c2d-4702-9a25-44a43772eb02.png)
-### Confusion Matrix:
-![162625017-f69347bf-5049-42ac-851f-26b31a1bbc74](https://user-images.githubusercontent.com/93427278/196479116-ac364f28-141d-43fe-8f5f-ed9b740fbf41.png)
-### Classification Report:
-![162625024-a73ac339-a0dd-440b-bd42-f8cabddadc6f](https://user-images.githubusercontent.com/93427278/196479205-7da2b9e1-5a0f-40bd-9b3f-eb8fcc6e94e8.png)
+![1](https://user-images.githubusercontent.com/93427278/200621130-7cbde7df-d1d2-449c-aafa-d5c404639720.png)
+
+
+
+![2](https://user-images.githubusercontent.com/93427278/200621153-a98cc3b5-dd84-4317-bd9f-2d37a1a2ce55.png)
+
+
+
+![3](https://user-images.githubusercontent.com/93427278/200621216-0705583c-3a84-428d-80ea-271772851342.png)
+
+
+![4](https://user-images.githubusercontent.com/93427278/200621219-4da55088-4b6d-4317-965c-b61c08727062.png)
+
+
+![5](https://user-images.githubusercontent.com/93427278/200621264-dd3790d1-7b1f-4313-a5fb-a45d21e2b60a.png)
+
+
+
+![6](https://user-images.githubusercontent.com/93427278/200621314-54c9d8ea-c343-4841-aab8-80f93a9f4033.png)
+
+
+![7](https://user-images.githubusercontent.com/93427278/200621361-90a5c368-a427-4c22-87a7-07d3e5731724.png)
+
+
+![8](https://user-images.githubusercontent.com/93427278/200621406-cf0825af-95db-4e67-bdbc-80c871752e9b.png)
+
+
+
+![9](https://user-images.githubusercontent.com/93427278/200621441-3ba11f56-6c9e-43a6-9aff-91d02230ce5b.png)
+
+
+![10](https://user-images.githubusercontent.com/93427278/200621467-0b672fc5-3a3a-46a7-9da6-deb729dc56c6.png)
+
+
+![11](https://user-images.githubusercontent.com/93427278/200621501-e7c247ef-b790-4b58-a32a-4810d716111b.png)
+
+
+![12](https://user-images.githubusercontent.com/93427278/200621542-1a828fb3-693e-45c2-81ca-b3692d303c74.png)
+
+
+![13](https://user-images.githubusercontent.com/93427278/200621569-a50c2ad2-0852-4607-90c2-f2d8c429f03b.png)
 
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
